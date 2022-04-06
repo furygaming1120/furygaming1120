@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=furygaming1120&show_icons=true)
 
 <!--
 **furygaming1120/furygaming1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
