@@ -18,4 +18,4 @@ Here are some ideas to get you started: -->
 
 📫 How to reach me: 
 
-[<img alt="" width="30px" src="/discord-logo.png" />]()
+[<img alt="" width="30px" src="/discord-logo.png" />](https://discordapp.com/users/823827858907987969)
