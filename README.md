@@ -12,6 +12,10 @@ Here are some ideas to get you started: -->
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ***Everything***
 <!-- 📫 How to reach me: ... -->
+
 - 😄 Pronouns: 🏳️‍⚧️ ***He/Him*** ***She/Her***
 <!-- ⚡ Fun fact: ... -->
 
+📫 How to reach me: 
+
+[<img alt="" width="30px" src="/discord-logo.png" />]()
