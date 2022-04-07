@@ -16,8 +16,9 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ***He/Him***
 <!-- ⚡ Fun fact: ... -->
 
-📫 How to reach me: 
+📫 My socials: 
 
 [<img alt="" width="30px" src="/discord-logo.png" />](https://discordapp.com/users/823827858907987969)
 [<img alt="" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>](https://youtube.com/channel/UCPKpPU76TOupRsxJKximtHg)
-[<img alt="" width="30px" src="https://img.icons8.com/ultraviolet/40/000000/twitter.png"/>](https://twitter.com/SonixFuryGaming?t=wn7ZOyz3d8H39Rpvqwx1qA&s=09)
+[<img alt="" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/SonixFuryGaming?t=wn7ZOyz3d8H39Rpvqwx1qA&s=09)
+[<img alt="" width="30px" src="https://img.icons8.com/fluency/48/000000/reddit.png"/>](https://www.reddit.com/u/SonixFuryMods?utm_medium=android_app&utm_source=share)
