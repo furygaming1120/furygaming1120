@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ***Everything***
 <!-- 📫 How to reach me: ... -->
 
-- 😄 Pronouns: 🏳️‍⚧️ ***He/Him*** ***She/Her***
+- 😄 Pronouns: ***He/Him***
 <!-- ⚡ Fun fact: ... -->
 
 📫 How to reach me: 
