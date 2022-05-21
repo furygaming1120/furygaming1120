@@ -10,10 +10,10 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning ***Assembly***
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ***Everything***
+<!-- 💬 Ask me about ***Everything*** -->
 <!-- 📫 How to reach me: ... -->
 
-- 😄 Pronouns: ***He/Him***
+- Pronouns: ***He/Him***
 <!-- ⚡ Fun fact: ... -->
 
 📫 My socials: 
